@@ -21,7 +21,7 @@ This Kiln Simulation App uses machine learning (Random Forest Regressor) to mode
 
 **How to Use**
 
-• Launch the app in your browser by 
+• Save the all the 3 pkl files + kiln_simulation.py file in vs code or any  code editor then run it by writting this command: 
 
 `streamlit run file_name.py`
 
