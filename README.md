@@ -1,9 +1,11 @@
 # Kiln-Simulation-App
 
-**Overview**
+**Overview
+
 This Kiln Simulation App uses machine learning (Random Forest Regressor) to model and predict kiln behavior. It takes key input features such as fuel rate, primary air, secondary air, and chemical composition parameters including CaO, SiO₂, Al₂O₃, and Fe₂O₃. Based on these inputs, the model accurately predicts two critical outputs: T_gas and T_solid. The app visualizes these predictions in real-time time-series graphs using Matplotlib, allowing users to observe and analyze the temperature progression throughout the simulation.
 
 **Key Features**
+
 • ML-Powered Predictions – Predicts T_gas and T_solid using a trained Random Forest Regressor model
 • Flexible Input Controls – Adjust parameters like fuel rate, primary air, secondary air, CaO, SiO₂, Al₂O₃, and Fe₂O₃
 • Real-Time Time-Series Graphs – Visualize output temperatures dynamically with Matplotlib
