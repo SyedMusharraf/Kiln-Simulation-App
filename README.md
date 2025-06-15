@@ -22,6 +22,7 @@ This Kiln Simulation App uses machine learning (Random Forest Regressor) to mode
 **How to Use**
 
 • Launch the app in your browser by 
+
 '''
 streamlit run file_name.py
 '''
