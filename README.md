@@ -23,9 +23,7 @@ This Kiln Simulation App uses machine learning (Random Forest Regressor) to mode
 
 • Launch the app in your browser by 
 
-''' streamlit run file_name.py '''
-
-
+`streamlit run file_name.py`
 
 •Enter input parameters: set values for fuel rate, airflows, and chemical components (CaO, SiO₂, Al₂O₃, Fe₂O₃)
 
